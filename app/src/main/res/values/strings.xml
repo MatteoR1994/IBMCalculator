@@ -1,6 +1,7 @@
 <resources>
-    <string name="app_name">IBM Calculator</string>
+    <string name="app_name">BMI Calculator</string>
     <string name="hintPeso">Inserisci il tuo peso</string>
     <string name="hintAltezza">Inserisci la tua altezza</string>
     <string name="calculateIBMButtonText">CALCOLA IBM</string>
+    <string name="resultIntro">BMI:</string>
 </resources>
